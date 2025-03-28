@@ -1,0 +1,1 @@
+{"Alice": ["Naz"], "Kapil": ["Raj"], "Carla": ["David", "Alex"], "David": ["John"], "John": ["Carla"], "Alex": ["John"], "Naz": ["Carla", "Alex", "Bob", "Salim", "Geeta", "Rahul"], "Bob": ["Carla"], "Rahul": ["Naz"], "Geeta": ["Naz"]}
